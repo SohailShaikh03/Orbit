@@ -98,8 +98,8 @@ Orbit/
 > **Database Credentials**:  
 > Configured in [`DBConnection.java`](file:///c:/Users/sohai/eclipse-workspace/Batch436/Orbit/src/main/java/com/orbit/util/DBConnection.java):
 > - **URL**: `jdbc:mysql://localhost:3306/Orbit`
-> - **Username**: `root`
-> - **Password**: `root` (change this in `DBConnection.java` if your local MySQL password differs)
+> - **Username**: `YOUR_USERNAME`
+> - **Password**: `YOUR_PASSWORD` (change this in `DBConnection.java` if your local MySQL password differs)
 
 ---
 
